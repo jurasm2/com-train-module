@@ -7,6 +7,6 @@
         }
     ],
     "require": {
-        "jurasm2/com-train-lib": "*"
+        "jurasm2/com-train-lib-renamed": "*"
     }
 }
